@@ -1,0 +1,17 @@
+[project]
+name = "advanced-systems"
+version = "1.0.0"
+description = "Advanced patterns and resilience"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+dependencies = [
+    "pydantic>=2.5.0",
+    "tenacity>=8.2.0",
+    "structlog>=24.1.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
