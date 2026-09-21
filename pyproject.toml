@@ -1,10 +1,10 @@
 [project]
 name = "advanced-systems"
 version = "1.0.0"
-description = "Advanced patterns and resilience"
+description = "Resilience patterns, rule evaluation, and fault-tolerant system foundations"
 readme = "README.md"
 requires-python = ">=3.10"
-license = {text = "MIT"}
+license = {text = "VisionQuantech Custom Commercial License"}
 
 dependencies = [
     "pydantic>=2.5.0",
