@@ -1,5 +1,7 @@
 # 11_advanced_systems
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 > Python reliability and decision-engineering foundation for circuit breakers, retries, rate limiting, bulkheads, rule evaluation, and caching.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
